@@ -1,0 +1,16 @@
+[
+{
+  "modid": "springcraft",
+  "name": "SpringCraft",
+  "description": "Fully-fledged Spring boot in minecraft with REST and WebFlux!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://nk2.eu/projects/-1",
+  "updateUrl": "",
+  "authorList": ["nk2"],
+  "credits": "Spring boot team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

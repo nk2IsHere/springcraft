@@ -1,0 +1,19 @@
+${AnsiColor.YELLOW}╔█████████████${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}█████████████╗
+${AnsiColor.YELLOW}██████████████${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}██████████████
+${AnsiColor.YELLOW}██████████████${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}██████████████
+${AnsiColor.YELLOW}██████████████${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}██████████████
+${AnsiColor.YELLOW}██████████████${AnsiColor.BRIGHT_RED}╚╝${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}║║${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}╚╝${AnsiColor.YELLOW}██████████████
+${AnsiColor.YELLOW}███████████████████${AnsiColor.BRIGHT_RED}╚╝${AnsiColor.YELLOW}███████████████████
+${AnsiColor.YELLOW}████████████████████████████████████████
+${AnsiColor.YELLOW}███████████${AnsiColor.BRIGHT_RED}╔══╗${AnsiColor.YELLOW}██████████${AnsiColor.BRIGHT_RED}╔══╗${AnsiColor.YELLOW}███████████
+${AnsiColor.YELLOW}██████████${AnsiColor.BRIGHT_RED}║    ║${AnsiColor.YELLOW}████████${AnsiColor.BRIGHT_RED}║    ║${AnsiColor.YELLOW}██████████
+${AnsiColor.YELLOW}███████████${AnsiColor.BRIGHT_RED}╚══╝${AnsiColor.YELLOW}██████████${AnsiColor.BRIGHT_RED}╚══╝${AnsiColor.YELLOW}███████████
+${AnsiColor.YELLOW}████████████████████████████████████████
+${AnsiColor.YELLOW}██████${AnsiColor.BRIGHT_RED}╔══╗${AnsiColor.YELLOW}████   ${AnsiColor.BRIGHT_RED}█    █   ${AnsiColor.YELLOW}████${AnsiColor.BRIGHT_RED}╔══╗${AnsiColor.YELLOW}██████
+${AnsiColor.YELLOW}██████${AnsiColor.BRIGHT_RED}╚══╝${AnsiColor.YELLOW}███     ${AnsiColor.BRIGHT_RED}╚══╝     ${AnsiColor.YELLOW}███${AnsiColor.BRIGHT_RED}╚══╝${AnsiColor.YELLOW}██████
+${AnsiColor.YELLOW}█████████████              █████████████
+${AnsiColor.YELLOW}██████████████     ██     ██████████████
+${AnsiColor.YELLOW}████████████████████████████████████████
+${AnsiColor.YELLOW}╚██████████████████████████████████████╝
+
+${AnsiColor.BRIGHT_BLUE}:: ${spring.application.name} :: Cats on Spring Boot ${spring-boot.version} :: ${AnsiColor.WHITE}
